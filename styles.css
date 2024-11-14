@@ -1,0 +1,16 @@
+
+h2 {
+    background-color: chocolate;
+    margin: 0 0 20px 0;
+}
+
+p {
+    background-color: darkslategray;
+    margin: 10px 0 0 0;
+}
+
+/*The smaller margin collapses into the bigger
+margin. In this case 10 collapses into 20
+so 20 is the margin we get as the total and
+not 30*/
+
